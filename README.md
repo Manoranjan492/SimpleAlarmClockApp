@@ -1,8 +1,8 @@
 # SimpleAlarmClockApp
 
-"EasyAlarm: A Simple Alarm Clock App for Android 🌅⏰
+"SimpleAlarmClock: A Simple Alarm Clock App for Android 🌅⏰
 
-Looking for a reliable alarm clock app to start your mornings on the right foot? EasyAlarm, developed using Android Studio, offers a hassle-free solution. With its intuitive interface, setting alarms is a breeze, ensuring you never oversleep again. Customize your wake-up experience by choosing from a range of delightful sounds. Features include snooze functionality, repeatable alarms, and a clean design that puts user experience first. Join the ranks of early risers – download EasyAlarm now and make every morning a success!"
+Looking for a reliable alarm clock app to start your mornings on the right foot? SimpleAlarmClock, developed using Android Studio, offers a hassle-free solution. With its intuitive interface, setting alarms is a breeze, ensuring you never oversleep again. Customize your wake-up experience by choosing from a range of delightful sounds. Features include snooze functionality, repeatable alarms, and a clean design that puts user experience first. Join the ranks of early risers – make every morning a success!"
 
 --------------------------------*---------------------------------------*-----------------------------------*------------------------------*----------------------
 

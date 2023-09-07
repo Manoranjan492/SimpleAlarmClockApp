@@ -33,3 +33,46 @@ Welcome to SimpleAlarm, a straightforward alarm clock solution designed to get y
 <hr/>
 1.Whether you're new to app development or simply seeking a no-frills alarm clock, SimpleAlarm offers a great starting point.<br/>
 2.Fork, clone, or contribute to enhance your coding skills and create the perfect waking-up companion. Rise and shine with SimpleAlarm!"
+
+<h2>Screenshot:</h2>
+<h4>1.HomeScreen:</h4>
+<ul>
+<li><b>Bright</b></li>
+
+![Home Screen (Bright)](https://github.com/Manoranjan492/SimpleAlarmClockApp/assets/119121227/6289365c-da68-4777-88a5-bde53b979e98)
+
+<li><b>Dark</b></li>
+
+![Home Screen (Dark)](https://github.com/Manoranjan492/SimpleAlarmClockApp/assets/119121227/d511cb78-fcc8-4d0f-9fab-99656ed189d4)
+</ul>
+
+
+
+<h4>2.Alarm Screen:</h4>
+<ul>
+<li><b>Bright</b></li>
+
+![Alarm Screen (Bright)](https://github.com/Manoranjan492/SimpleAlarmClockApp/assets/119121227/1840a850-e3a3-4708-a890-055655e44fa0)
+
+
+<li><b>Dark</b></li>
+
+![Alarm Screen (Dark)](https://github.com/Manoranjan492/SimpleAlarmClockApp/assets/119121227/dddeefda-c23d-4127-9d4b-49e779d700be)
+</ul
+
+
+
+<h4>3.Alarm Toggle Screen:</h4>
+
+![Alarm Toggle](https://github.com/Manoranjan492/SimpleAlarmClockApp/assets/119121227/33dc4abf-9f71-43f9-97e5-95d43b4f8d6e)
+
+<h4>4.Snooze and Dismiss Screen:</h4>
+
+![Snooze and Dismiss Screen](https://github.com/Manoranjan492/SimpleAlarmClockApp/assets/119121227/25db2585-c183-4c7f-b482-8c45be4ef927)
+
+<br>
+
+<h3>*****THANKS FOR VISITING*****</h3>
+
+
+
